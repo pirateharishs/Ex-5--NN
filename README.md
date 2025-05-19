@@ -1,7 +1,7 @@
 ## NAME: HARISH S
 ## REG-NO: 212223230071
-<H3>EX-NO:.5</H3>
-<H3>DATE: 12/05/25</H3>
+## EX-NO:05
+## DATE: 12/05/25
 <H1 ALIGN =CENTER>Implementation of XOR  using RBF</H1>
 <H3>Aim:</H3>
 To implement a XOR gate classification using Radial Basis Function  Neural Network.
